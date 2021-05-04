@@ -3,16 +3,16 @@ ob_start();
 //ushbu kod @wcpro tomonidan yozildi va @mwmcoders kanali orqali tarqatildi 
 //agarda siz koddagi MwM yoki MwMTeam so'zlarini o'zgartirsangiz kod sizda ishlamay qo'yadi 
 //Faqat manba larni o'zgartiring 
-define('API_KEY','BOTIZI TOKENCHASI');
-$admin = "572043251";
+define('API_KEY','1482504450:AAEpsN3kke99T0lwF5YVru5Z7o11wJP7WGY');
+$admin = " 988954148";
 $bot = "iPHPBot"; 
 $kanalimz = "@MwMcoders"; 
-$kanalimizku = "@kanal useri"; 
-$admuser = "@Defqon"; 
-$admusersmem = "@WCodes"; 
-$admusersTel = "@MwMMoney"; 
-$admuserstj = "@tj_web"; 
-$admusers = "@MwMTeam"; 
+$kanalimizku = "@arfjwnejo"; 
+$admuser = "@Asadbeknuu"; 
+$admusersmem = "@Asadbeknuu"; 
+$admusersTel = "@Asadbeknuu"; 
+$admuserstj = "@Asadbeknuu"; 
+$admusers = "@Asadbeknuu"; 
 $kun = date('d-m-20y', strtotime('2 hour'));
 $soat = date('H:i', strtotime('2 hour'));
 //==D===E===F===Q===O===N===//
